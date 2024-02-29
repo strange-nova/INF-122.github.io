@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.inicial{
+  background-color: rgb(116, 28, 28);  
+  height: 600px;
+  width: 460px;
+  margin: 30px 40% 0 40%;
+  border-radius: 1000px;
+}
+.ojo1{
+    float: left;
+    background-color: rgb(201, 30, 30);
+    width: 120px;
+    height: 120px;
+    margin: 90px 0 0 80px;
+    border-radius: 100px;
+}
+.ojo2{
+    float: right;
+    background-color: rgb(202, 31, 31);
+    width: 120px;
+    height: 120px;
+    margin: 90px 80px 0 0;
+    border-radius: 100px;
+}
+.nariz{
+    background-color: rgb(146, 146, 85);
+    width: 70px;
+    height: 70px;
+    position: relative;
+    top: 250px;
+    left: 190px;
+    border-radius: 30px;
+}
+.boca{
+    background-color: rgb(175, 132, 38);
+    width: 180px;
+    height: 70px;
+    position: relative;
+    top: 320px;
+    left: 135px;
+    border-radius: 30px;
+}
